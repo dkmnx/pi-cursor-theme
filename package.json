@@ -1,0 +1,11 @@
+{
+  "name": "pi-cursor-theme",
+  "version": "0.1.0",
+  "description": "A Cursor-inspired dark theme for pi coding agent",
+  "keywords": ["pi-package", "pi-theme", "theme", "cursor", "dark-theme"],
+  "author": "dkmnx",
+  "license": "MIT",
+  "pi": {
+    "themes": ["./themes"]
+  }
+}
