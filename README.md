@@ -2,6 +2,12 @@
 
 A Cursor-inspired dark theme for the pi coding agent.
 
+**Inspiration:** Based on the [Cursor theme] from the [opencode] project.
+
+[Cursor theme]: https://github.com/anomalyco/opencode/blob/dev/packages/opencode/src/cli/cmd/tui/context/theme/cursor.json
+
+[opencode]: https://github.com/anomalyco/opencode
+
 ## Installation
 
 Install from npm:
