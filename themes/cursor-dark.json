@@ -21,7 +21,9 @@
     "orange": "#d2943e",
     "pink": "#E394DC",
     "purple": "#AAA0FA",
-    "teal": "#82D2CE"
+    "teal": "#82D2CE",
+    "success": "#0A1C0F",
+    "error": "#1C050E"
   },
   "colors": {
     "accent": "cyan",
@@ -43,8 +45,8 @@
     "customMessageText": "",
     "customMessageLabel": "pink",
     "toolPendingBg": "panel",
-    "toolSuccessBg": "panel",
-    "toolErrorBg": "panel",
+    "toolSuccessBg": "success",
+    "toolErrorBg": "error",
     "toolTitle": "cyan",
     "toolOutput": "muted",
 
